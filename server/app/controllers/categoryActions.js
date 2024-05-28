@@ -1,4 +1,3 @@
-
 // Some data to make the trick
 
 const categories = [
